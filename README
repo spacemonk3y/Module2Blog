@@ -1,0 +1,13 @@
+Microsoft: DEV283x 
+Introduction to NodeJS 
+
+Module 2 Assignment Lab: RESTful Blog API
+
+This project represents my atempt at a RESTful Blog API
+
+Main functions :
+	- Read Add Edit Delete :
+		- posts
+			- comments
+
+Tested, everything seems to work fine.
